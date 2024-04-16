@@ -30,6 +30,18 @@ function empty(){
    basket.length = 0;
     }
 
+  const maxItems = 5;
+
+  console.log(maxItems);
+
+  
+  function isFull(){
+    
+  };
+
+
+
+
 
 
 
